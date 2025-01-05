@@ -1,1 +1,1 @@
-Today, you will learn about the recipes, and how to make them. I hope you enjoy these yummy recipes. This has got to be the longest thing project that I had to do. I'll put the files from Quiz 2 here too, since I used some of the files in the project. Let me know if there's any problems with it!
+Today, you will learn about the recipes, and how to make them. I hope you enjoy these yummy recipes. This has got to be the longest thing project that I had to do. I'll put one of the files from Quiz 2 here too, since I used one file to make the project.
